@@ -9,6 +9,9 @@ Take a stretch break when passing the CEID cameras by interacting with this syst
 index.html
 main.js
 stretch.png
+sidetilt.png
+headcircle.png
+triceps.png
 styles.css
 ```
 ## Usage
